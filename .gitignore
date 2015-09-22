@@ -1,0 +1,4 @@
+.Trashes
+node_modules/
+db/
+client/lib
