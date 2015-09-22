@@ -1,0 +1,22 @@
+{
+  "name": "airgrad-angular",
+  "version": "0.0.0",
+  "authors": [
+    "Edgar Pabon"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-mocks": "~1.4.6",
+    "angular-route": "~1.4.6",
+    "material-design-icons": "~2.0.0",
+    "Materialize": "materialize#~0.97.1"
+  }
+}
