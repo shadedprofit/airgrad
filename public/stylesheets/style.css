@@ -1,0 +1,68 @@
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+}
+
+#logout {
+  float: right;
+}
+
+#browse {
+  margin-left: 130px;
+}
+
+#banner {
+  height: 430px;
+  margin-top: -50px;
+  background-image: url('../images/computerlearn.jpg');
+  background-repeat: no-repeat;
+  /*background-size: 100% 100%;*/
+  background-size: 100%;
+  z-index: -1;
+}
+
+
+#banner a {
+  background-color: #1e88e5;
+}
+
+#bannerBox h3 a{
+  padding-top: 100px;
+  padding-right: 30px;
+  width: 30%;
+  color: white;
+  background-color: rgba(0,0,0,0.6);
+}
+.description {
+  margin-top: 20px;
+  color: #2b2b2b;
+}
+
+.description p {
+  font-size: 24px;
+}
+
+.description div {
+  padding: 30px;
+}
+
+.description div:hover {
+  background-color: #cccccc;
+  border-radius: 5px;
+  color: black;
+  
+}
+
+.navColor {
+  background-color: #1e88e5;
+  margin-bottom: 40px;
+  z-index: 100;
+}
+
+.bar {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+i {
+  padding-top: 30px;
+}
