@@ -11,5 +11,6 @@ angular.module('airgrad', [
     .when('/welcome', {
       templateUrl: '/views/welcome.html'
     })
+    
     .otherwise('/welcome');
 });
